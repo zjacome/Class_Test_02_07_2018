@@ -33,7 +33,7 @@ public class PhoneTest {
 		System.out.println("The Price of phone #3 is $"+phone3.price);
 	}
 	else {
-		System.out.println("Which phone are you interested in 1, 2, or 3?");
+		System.out.println("Number entered is not a valid option");
 	
 	}
 
